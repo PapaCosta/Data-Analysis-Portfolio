@@ -12,10 +12,10 @@ Once you start reading about investments and hearing from someone they're gettin
 You end up hearing about ETFs, one of the most used investment instruments, being an easy entry to the market.
 
 You might also come across with some financial quotes. One in particular from Ken Fisher:
->"Time in the market beats timing the market."
+>**"Time in the market beats timing the market."**
 
 And another one from Warren Buffet, one of the most successful investors:
->“Our favorite holding period is forever.”
+>**“Our favorite holding period is forever.”**
 
 These quotes come from the unpredictableness and volatility of the market and how it is unlikely for anyone to know what is going to happen short-term. Neverthless, you can expect that the market will grow long-term and use that to your advantage, despite all the volatility you might encounter.
 
