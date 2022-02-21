@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analysis Portfolio - Paulo Costa
 
 ## [Project 1: Analysis on Time in the Market: how long is long enough?](https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb)
 
