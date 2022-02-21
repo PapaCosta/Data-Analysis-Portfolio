@@ -2,6 +2,8 @@
 
 ## [Project 1: Analysis on Time in the Market: how long is long enough?](https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb)
 
+---
+
 Once you start reading about investments and hearing from someone they're getting good returns, you might start thinking about using some of the money you saved up to invest in the market to also get that slice of the returns you see people getting.
 
 You end up hearing about ETFs, one of the most used investment instruments, being an easy entry to the market.
