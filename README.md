@@ -26,4 +26,4 @@ Finally, we'll try to find out if there is a way to improve the chances of not g
 
 **Link for the full report and code: [here](https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb){:target="_blank"}**
 
-
+<a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">here</a>
