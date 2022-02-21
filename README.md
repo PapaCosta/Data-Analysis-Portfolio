@@ -1,9 +1,11 @@
 # Data Analysis Portfolio - Paulo Costa
 
 ## Project 1: Analysis on Time in the Market: how long is long enough?
-**Link for the full report and code:** <b><a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">**here**</a></b>
 
 ---
+
+**Link for the full report and code:** <b><a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">**here**</a></b>
+
 
 Once you start reading about investments and hearing from someone they're getting good returns, you might start thinking about using some of the money you saved up to invest in the market to also get that slice of the returns you see people getting.
 
@@ -24,5 +26,7 @@ To do this we'll look into 5 different assets: **2 Exchange-Traded Funds (ETF), 
 Investing should be a way to try to beat inflation, trying to keep or increase the value of our money over time, so we'll take a look into inflation and consider it as the reference to breakeven and check again the worst cases and the variation of the percentage of negative returns.
 
 Finally, we'll try to find out if there is a way to improve the chances of not getting negative returns or at least decrease the breakeven duration.
+
 ***Disclaimer**: Nothing written here is financial advice. Past performance does not guarantee future results.*
+
 **Link for the full report and code:** <b><a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">**here**</a></b>
