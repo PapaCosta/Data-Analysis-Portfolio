@@ -24,4 +24,4 @@ Investing should be a way to try to beat inflation, trying to keep or increase t
 
 Finally, we'll try to find out if there is a way to improve the chances of not getting negative returns or at least decrease the breakeven duration.
 
-**Link for the full report and code: <b><a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">**here**</a></b>
+**Link for the full report and code:** <b><a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">**here**</a></b>
