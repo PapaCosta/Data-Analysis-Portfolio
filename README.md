@@ -1,6 +1,6 @@
 # Data Analysis Portfolio - Paulo Costa
 
-## Project 1: Analysis on Time in the Market: how long is long enough?
+## Project 1: Time in the Market: how long is long enough?
 
 ---
 
