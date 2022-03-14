@@ -5,6 +5,7 @@
 ---
 
 **Link for the full report and code:** <b><a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">**here**</a></b>
+**Link for the LinkedIn article:** <b><a href="https://www.linkedin.com/pulse/time-market-how-long-enough-paulo-costa/" target="_blank">**here**</a></b>
 
 Once you start reading about investments and entering the investment world, you might end up hearing about ETFs, one of the most used investment instruments, being an easy entry to the market. You might also come across with some financial quotes. One in particular from Ken Fisher:
 
@@ -19,7 +20,6 @@ In this analysis we'll make a deep dive into time in the market and find out **h
 
 Finally, we'll try to find out if there is a way to improve the chances of not getting negative returns or at least decrease the breakeven duration.
 
-**Link for the full report and code:** <b><a href="https://github.com/pccostapt/time-in-the-market---how-long-is-long-enough/blob/main/Time_in_the_Market_how_long_is_long_enough_.ipynb" target="_blank">**here**</a></b>
 
 ***Disclaimer**: Nothing written here is financial advice. Past performance does not guarantee future results.*
 
